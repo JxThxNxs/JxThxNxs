@@ -1,5 +1,36 @@
-- 👋 Hi, I’m @JxThxNxs
-- 👀 I’m interested in anything tech related: Programming retro and modern games, DIY Projects, Raspi Projects, gaming...
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: Just write an Email to jxthxnxs@gmail.com or message me on DC: jothenashorn
-- ⚡ Fun fact: I'll study IT in the future
+# JxThxNxs ⚡
+
+> Retro vibes. Sharp code. Total control.
+
+---
+
+## About
+I create software that puts freedom first.  
+No trackers. No bloat. Full control with a touch of retro spirit.  
+
+---
+
+## Projects
+- **TrackThisOS**  
+  ![OS Badge](https://img.shields.io/badge/OS-Privacy%20First-blue)  
+  A Linux derivative focused on privacy, control, and simplicity.  
+
+- **FR Browser**  
+  ![Browser Badge](https://img.shields.io/badge/Browser-Fast%20%26%20Tracker--Free-green)  
+  Minimal, fast, and resistant to surveillance.  
+
+- **FTG Chat**  
+  ![Chat Badge](https://img.shields.io/badge/Chat-Encrypted%20%26%20Free-yellow)  
+  Communication without restrictions or compromise.  
+
+---
+
+## Philosophy
+Control is necessary.  
+Freedom is essential.  
+Systems should empower, not confine.  
+
+---
+
+## Contact
+✉️ `jxthxnxs@gmail.com`
